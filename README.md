@@ -1,2 +1,2 @@
-# canvas_quiz_solution_remover
+# Canvas Quiz Solution Remover
 Chrome extension to remove answers from a Canvas quiz.
